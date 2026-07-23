@@ -26,5 +26,11 @@ Aqui você encontrará informações sobre a escola e muito mais.
 
 ---
 
-Este projeto foi desenvolvido por Schweinsteiger Pacheco Dias  
-📌 GitHub: [schweinsteiger-f](https://github.com/schweinsteiger-f)
+## 📜 Licença
+
+Este projeto é **proprietário** e todos os direitos estão reservados.  
+Nenhuma parte deste código, design ou conteúdo pode ser copiada, modificada, distribuída ou utilizada sem permissão explícita e por escrito do autor.
+
+© 2026 Schweinsteiger Pacheco Dias — Todos os direitos reservados.
+
+[schweinsteiger-f©](https://github.com/schweinsteiger-f)
