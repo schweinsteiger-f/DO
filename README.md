@@ -38,9 +38,3 @@ Nenhuma parte deste código, design ou conteúdo pode ser copiada, modificada, d
 © 2026 Schweinsteiger Pacheco Dias — Todos os direitos reservados.
 
 [schweinsteiger-f©](https://github.com/schweinsteiger-f)
-
-# About the repo
-
-![GitHub last commit](https://img.shields.io/github/last-commit/schweinsteiger-f/DO?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/schweinsteiger-f/DO?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/schweinsteiger-f/DO?style=for-the-badge)
