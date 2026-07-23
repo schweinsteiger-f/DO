@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "Pixelado";
+  src: url("./assets/fonts/PressStart2P-Regular.ttf") format("TrueType");
+}
+body {
+  background-color: #efefef;
+  animation: OnEnter 4s ease-in-out;
+}
+
+.e-base-container .e-header .top-container #e-titulo {
+  color: rgb(9, 9, 9);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 53px;
+}
+.e-base-container .e-header .top-container #e-subtitulo {
+  color: rgb(9, 9, 9);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 43px;
+  transform: translateY(-30px);
+}
+
+.h-base-container .h-header .h-logo-container {
+  display: flex;
+  justify-content: center;
+}
+.h-base-container .h-header .h-logo-container #h-logo {
+  height: 300px;
+}
+.h-base-container .h-header .h-top-container {
+  text-align: center;
+}
+.h-base-container .h-header .h-top-container #h-titulo {
+  color: #2e3092;
+  font-size: 79px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.h-base-container .h-header .h-top-container #h-subtitulo {
+  color: #ed1c24;
+  font-size: 67px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  transform: translateY(-60px);
+}
+.h-base-container #h-divisoria1 {
+  border: 3px solid rgba(19, 19, 19, 0.669);
+  border-radius: 12px;
+  transform: translateY(-80px);
+}
+.h-base-container .h-main .h-about-container #h-about-container-titulo {
+  text-align: center;
+  color: #2e3092;
+  font-size: 43px;
+  font-family: "Pixelado";
+}
+
+@keyframes OnEnter {
+  0% {
+    filter: opacity(0%) grayscale(100%);
+  }
+  50% {
+    filter: opacity(50%) grayscale(50%);
+  }
+  100% {
+    filter: opacity(100%) grayscale(0%);
+  }
+}/*# sourceMappingURL=App.css.map */
